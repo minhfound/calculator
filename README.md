@@ -1,4 +1,4 @@
-# fx-880 Emulator (ClassWiz-like)
+# Emulator (ClassWiz-like)
 
 A Python application that emulates basic features of the Casio fx-880 / ClassWiz calculators.  
 Built with **Tkinter**, it provides a graphical interface with multiple modes for calculation, statistics, probability distributions, spreadsheets, value tables, and polynomial equation solving.
@@ -57,4 +57,4 @@ Built with **Tkinter**, it provides a graphical interface with multiple modes fo
 Clone the repo and run:
 
 ```bash
-python fx880_emulator.py
+python emulator.py
